@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "cucumber": "^5.1.0"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
   }
 }
